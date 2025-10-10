@@ -57,7 +57,7 @@ make
 ## 🖼️ Usage
 Place your image in the `Resources` folder (or adjust the path in code):
 ```cpp
-std::string path = "Resources/saadrabia.jpg";
+std::string path = "Resources/ronaldoAndMessi.jpg";//here you can put the image path
 ```
 
 Then run:
@@ -84,13 +84,9 @@ int consoleWidth = 100; // wider output
 ---
 
 ## 🧑‍💻 Example Output
+<img width="474" height="813" alt="Screenshot 2025-10-10 162439" src="https://github.com/user-attachments/assets/fe787da5-2a51-464c-a046-3e24caaf74d8" />
 
-```
-<img width="474" height="813" alt="Screenshot 2025-10-10 162439" src="https://github.com/user-attachments/assets/98324812-c675-451c-82bf-2ccdf4c4e24a" />
 
-```
-
----
 
 ## 🧩 Future Improvements
 - Add **auto-detection** for terminal width/height
