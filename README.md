@@ -57,7 +57,8 @@ make
 ## 🖼️ Usage
 Place your image in the `Resources` folder (or adjust the path in code):
 ```cpp
-std::string path = "Resources/ronaldoAndMessi.jpg";//here you can put the image path
+ // Path to the image (adjust to your setup)
+std::string path = "Resources/ronaldoAndMessi.jpg";
 ```
 
 Then run:
